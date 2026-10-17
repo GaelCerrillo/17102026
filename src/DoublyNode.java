@@ -9,7 +9,7 @@ public class DoublyNode<T> {
     public DoublyNode(T data) {
         this.data = data;
     }
-git add
+
     public T getData() {
         return data;
     }
